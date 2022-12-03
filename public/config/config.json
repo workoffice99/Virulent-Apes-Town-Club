@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc1F46eF393E228e96fc1e8a250CDb0b19dB08f5D",
+  "SCAN_LINK": "https://etherscan.io/address/0xc1F46eF393E228e96fc1e8a250CDb0b19dB08f5D",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Virulent Apes Town Club",
+  "SYMBOL": "VATC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/virulent-apes-town-club",
+  "SHOW_BACKGROUND": true
+}
